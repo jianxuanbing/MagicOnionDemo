@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bing.Core" Version="0.0.1-preview-20190327-1" />
+    <PackageReference Include="MagicOnion" Version="2.0.5" />
+  </ItemGroup>
+
+</Project>
